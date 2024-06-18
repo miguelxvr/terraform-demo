@@ -1,5 +1,3 @@
-# Tutorial de Terraform para Iniciantes
-
 ## Introdução
 
 Terraform é uma ferramenta de infraestrutura como código (IaC) desenvolvida pela HashiCorp, que permite gerenciar, provisionar e atualizar recursos de infraestrutura em nuvens públicas, privadas e híbridas. Neste tutorial, abordaremos os conceitos básicos do Terraform e como começar a usá-lo.
